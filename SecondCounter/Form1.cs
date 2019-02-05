@@ -55,7 +55,7 @@ namespace SecondCounter
             }
             catch
             {
-
+                txtbx_output.Text = "Error, please enter valid number";
             }
         }
     }
